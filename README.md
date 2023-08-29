@@ -1,6 +1,12 @@
 # lzrw1
 LZRW1 port from Pascal to C# from [Danny Heijl's Delphi implementation](https://www.sac.sk/download/pack/tlzrw1.zip), but without the added headers.
 
+Usage:
+
+`lzrw1.exe <compress|decompress> <inputfile> <outputfile>`
+
+
+
 Known Bugs 🐛🔧:
 - Needs fix for big files (bigger than 32K) 🙈
 
