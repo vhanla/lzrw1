@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lzrw1": {
+      "commandName": "Project",
+      "commandLineArgs": "decompress book.bin libro.txt"
+    }
+  }
+}
