@@ -16,3 +16,12 @@ Sources&Literature:
 - [LZRW1 Encoder Core](https://opencores.org/websvn/filedetails?repname=lzrw1-compressor-core&path=%2Flzrw1-compressor-core%2Ftrunk%2Fdocumentation%2FLZRW1+Compressor+Core+V1.0.pdf)
 - [Data Compression Explained](https://mattmahoney.net/dc/dce.html#Section_53)
 - [python-lzrw1-kh](https://github.com/nmantani/python-lzrw1-kh)
+
+## Author¹
+Victor Alberto Gil (Twitter: @vhanla)
+
+## License
+The MIT License (https://opensource.org/license/mit/)
+
+____
+¹Author of the port to C#
