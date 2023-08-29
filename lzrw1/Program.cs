@@ -264,8 +264,8 @@ class LZRW1KH
     {
         LZRW1KH compressor = new LZRW1KH();
 
-        byte[] buffer = new byte[BufferMaxSize];
-        byte[] DSTBuf = new byte[BufferMaxSize];
+        byte[] buffer = new byte[BufferMaxTwice];
+        byte[] DSTBuf = new byte[BufferMaxTwice];
         int bytesRead;
         
         List<byte> dst = new List<byte>();
